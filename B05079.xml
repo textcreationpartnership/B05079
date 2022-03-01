@@ -1,0 +1,1060 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The accepted time, and day of salvation, &amp;c. Or, Sinners flee from the wrath to come. By Robert Russel.</title>
+            <author>Russel, Robert, fl. 1692</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05079</idno>
+            <idno type="STC">Wing R2347B</idno>
+            <idno type="STC">ESTC R182898</idno>
+            <idno type="EEBO-CITATION">47012628</idno>
+            <idno type="OCLC">ocm 47012628</idno>
+            <idno type="VID">174593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174593)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2692:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The accepted time, and day of salvation, &amp;c. Or, Sinners flee from the wrath to come. By Robert Russel.</title>
+                  <author>Russel, Robert, fl. 1692</author>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Sanders ... Printed for John Crosby.,</publisher>
+                  <pubPlace>Glasgow, :</pubPlace>
+                  <date>Anno Dom. 1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: tight binding with loss of text.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians II, 6 --  Criticism, interpretation, etc.</term>
+               <term>Salvation --  Biblical teaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174593:1"/>
+            <pb facs="tcp:174593:1"/>
+            <p>THE Accepted TIME, AND DAY of Salvation, <hi>&amp;c.</hi> OR, <hi>SINNERS Flee from the Wrath to come.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>2 Cor. 6. part of Verſe 2.</hi>
+               </bibl>
+               <p>— Behold, now is the Accepted Time; be<g ref="char:EOLhyphen"/>hold, now is the Day of Salvation.</p>
+            </q>
+            <p>
+               <hi>By Robert Ruſsel.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> Printed by <hi>Robert Sanders,</hi> One of His <hi>Majeſties</hi> Printers. Printed for <hi>John Crosby. ANNO DOM.</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174593:2"/>
+            <pb n="3" facs="tcp:174593:2"/>
+            <head>THE Accepted Time, AND <hi>Day of Salvation, &amp;c.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2 Cor 6. part of Ver. 2.</hi>
+                  </bibl>
+                  <p>—Behold, now is the accep<g ref="char:EOLhyphen"/>ted time; behold, now is the Day of Salvation.</p>
+               </q>
+            </epigraph>
+            <p>THE Occaſion of theſe Words may be taken from the Words immediately before the Text, which were the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord's own Words ſpoken by the Mouth of the Prophet <hi>Iſaiah,</hi> 49.8. Saying, I <hi>have heard th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in a time accepted, and in a Day of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alvation have I helped thee:</hi> O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as it is in he words before the Text, <hi>in a Day of Sal<g ref="char:EOLhyphen"/>vation
+<pb n="4" facs="tcp:174593:3"/>have I ſuccoured thee.</hi> And from then<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Apoſtle takes occaſion to ſhew the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when that <hi>Accepted Time</hi> and <hi>Day of Salvation is,</hi> wherein God hears us, and accepts us and that he doth here, in the words of m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Text, <hi>Behold, now is the accepted time; be<g ref="char:EOLhyphen"/>hold, now is the Day of Salvation.</hi>
+            </p>
+            <p>From theſe words I ſhall gather this gene<g ref="char:EOLhyphen"/>ral Obſervation:</p>
+            <p>That the only Time to make our Peac<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with God, and thereby to obtain Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cy and Salvation, is now, this preſer Seaſon of Grace; or the time preſent the only Acceptable Time: For, B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>hold, now is the accepted Time; Behold now is the Day of Salvation.</hi>
+            </p>
+            <p>The Text affords us theſe two General Parts:</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> Here is a double Note of Attention <hi>Behold! Behold!</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> Here is the Subject matter to <hi>Be<g ref="char:EOLhyphen"/>hold;</hi> that is, <hi>Now is the accepted Time;</hi> and <hi>now is the Day of Salvation.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> Here is a double Note of Attention <hi>Behold! Behold!</hi> Now to behold a thing, is take great notice of it, to obſerve it, and mind it; and we may be ſure, that whenſo<g ref="char:EOLhyphen"/>ever we are called upon to behold a thin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it muſt be ſomething of very great Concer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there are many things that are not wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:174593:3"/>beholding: For if you mind it, you may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd in the Scriptures, that when any thing is mentioned that is of greater Concernment than others, it is alwayes brought in with this Note, <hi>Behold:</hi> As James 3.12. <hi>Behold, and ſee, if there be any Sorrow like unto my Sor<g ref="char:EOLhyphen"/>row.</hi> A Matter of very great Concernment. So John 1.29. <hi>Behold the Lamb of GOD, that taketh away the ſins of the World:</hi> And many others. Now there cannot be a Matter of greater Concernment, than this in my Text, That <hi>now is the accepted Time,</hi> and <hi>now is the Day of Salvation.</hi> A thing which concerns our winning, or loſing of Heaven for ever; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thing which concerns our everlaſting Peace, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r our everlaſting Woe; that now is the Time, that if we in earneſt ſeek for Mercy, we may have it: <hi>Now is the Time,</hi> that if we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eek and defire Grace, Pardon, and Salvati<g ref="char:EOLhyphen"/>on, we ſhall be accepted; but afterwards, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll our praying crying, and intreating, will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in vain: Now what can be more worth our beholding than this? This is a Matter which concerns our ſelves, and it is of the greateſt Concernment in the VVorld, there<g ref="char:EOLhyphen"/>fore this requires a double Note of Attenti<g ref="char:EOLhyphen"/>on, to put us in mind of it; <hi>Behold! behold!</hi>
+            </p>
+            <p>And ſo I paſs, <hi>Secondly,</hi> from the Note <hi>Be<g ref="char:EOLhyphen"/>hold,</hi> to the ſecond General Head, the Sub<g ref="char:EOLhyphen"/>ject: Matter to be behold; and that alſo is
+<pb n="4" facs="tcp:174593:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:174593:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:174593:6"/>double: <hi>Behold, now it the accepted time; be<g ref="char:EOLhyphen"/>hold, now is the day of ſalvation.</hi> Now the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Accepted Time,</hi> and the <hi>Day of Salvation</hi> are two ſeveral VVords, yet in Sence the are one and the ſame: For the <hi>Accepted Time</hi> is our <hi>Day of Salvation,</hi> and our <hi>Day of Sal<g ref="char:EOLhyphen"/>vation</hi> is the <hi>Accepted Time;</hi> wherein, if w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unfeignedly ſeek the LORD, and turn t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him, by true Repentance, we ſhall be ſur<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be accepted, pardoned, and ſaved: For <hi>Behold, now is the accepted time; behold, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is the day of ſalvation.</hi>
+            </p>
+            <p>Now in my further Proſecution of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Subject, I ſhall proceed after this manner:</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> I ſhall ſhew you, That with us, ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is ſuch a Time, as an <hi>Accepted Time,</hi> and <hi>D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of Salvation.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> I ſhall ſhew you the Seaſon, whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this <hi>Accepted Time,</hi> and <hi>Day of Salvation</hi> is.</item>
+               <item>
+                  <hi>Thirdly,</hi> The Reaſon of it. And,</item>
+               <item>
+                  <hi>Laſtly,</hi> The Application.</item>
+            </list>
+            <p>I ſhall begin with the Firſt, and ſhew you That with us, there is ſuch a Time, and <hi>Day of Salvation:</hi> And that, Firſt, in reſpect <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the fallen Angels, who never had ſuch Seaſon allocced them: Alas! they committed but one ſin againſt God, and that but on<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Thought, and yet for that one ſin, the were thruſt out of Heaven, and reſerved un<g ref="char:EOLhyphen"/>der Chains of Darkneſs, unto the dread fu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="7" facs="tcp:174593:6"/>Judgement of the Great Day; they being once ſallen, had never a <hi>Day of Salvation</hi> af<g ref="char:EOLhyphen"/>forded them; they never had one Moment of Time allotted them, upon the improve<g ref="char:EOLhyphen"/>ment of which, they might have been reſer<g ref="char:EOLhyphen"/>ved to Mercy; therefore if they ſhould pray, and cry, and intreat the Lord never ſo ear<g ref="char:EOLhyphen"/>neſtly, that he would forgive them that one ſin, and reſtore them once more to Mercy; yet they ſhall never be regarded: Chriſt ſuf<g ref="char:EOLhyphen"/>fered not for them, there was not one Drop of Blood ſhed to waſh away their ſin: <hi>For he took not upon him the nature of Angels, but the ſeed of Abraham,</hi> Heb. 6.16.</p>
+            <p>
+               <hi>Secondly,</hi> There is with us ſuch a Time as an <hi>Accepted Time,</hi> and <hi>Day of Salvation,</hi> in op<g ref="char:EOLhyphen"/>poſition to thoſe damned Souls that are al<g ref="char:EOLhyphen"/>ready in Hell: 'Tis true, the De<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ils being once fallen, never had Mercy offered them, they never had one Minute of Time afforded them to work out their Salvation, whereas theſe damned VVretches once had Mercy of<g ref="char:EOLhyphen"/>fered them, but they deſpiſed it; they once had a <hi>Day of Salvation</hi> a Time wherein they might have been <hi>accepted:</hi> Alas! They had many a Call from God, Time after Time, ma<g ref="char:EOLhyphen"/>ny a ſecret motion from his Spirit; They once heard many a Sermon, and enjoyed ma<g ref="char:EOLhyphen"/>ny a Sabbath, many an Ordinance; GOD waited upon them Time after Time, Year
+<pb n="8" facs="tcp:174593:7"/>after Year, whilſt they continued in their R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bellion againſt him: But alas! alas! they ſinned away all theſe precious Opportuni<g ref="char:EOLhyphen"/>ties; all this Time they might have bee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>accepted,</hi> if they had turned to God in ear<g ref="char:EOLhyphen"/>neſt: But lo! Now the Day of Grace is con<g ref="char:EOLhyphen"/>cluded, the Door of Hope is for ever ſha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> againſt them; now they are left in a fa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more miſerable Condition than the falle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Angels are in; for they once had a Golde<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Seaſon of Grace put into their Hands, b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they wilfully loſt it, and trifled it away long did God wait, and call upon them, from one Time to another, by his Spirit, and b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Meſſengers; but they wearied out hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Patience, grieved his Spirit, deſpiſed h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Meſſengers, abuſed all his Goodneſs: Ala<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Devils will never have ſuch Conſiderati<g ref="char:EOLhyphen"/>ous as theſe to torment them, as theſe dam<g ref="char:EOLhyphen"/>ned Souls now have.</p>
+            <p>
+               <hi>Thirdly,</hi> There is with us ſuch a Time an <hi>Accepted Time,</hi> and <hi>Day of Salvation,</hi> Oppoſition to what ſhall be with us here af<g ref="char:EOLhyphen"/>ter, if we let it ſlip; when we come to He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we ſhall be in the ſame miſerable Condition that thoſe damned Souls are in, that are al<g ref="char:EOLhyphen"/>ready there: Conſider, that Man being cre<g ref="char:EOLhyphen"/>ated in a hely and righteous Eſtare, and w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being fallen, if God had not found out Way for our Recovery, we had been leſt
+<pb n="9" facs="tcp:174593:7"/>miſerable a Condition as the fallen Angels <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere; but God of his unſpeakable Mercy, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oked in tender Love upon loſt Mankind, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at he gave his dearly beloved Son, to ſuf<g ref="char:EOLhyphen"/>fer and die for us; and for his ſake he hath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fforded every one of us a Day of Grace, which if we duly improve in turning to God, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n receiving of this his Son, as he is offered, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve ſhall be accepted, pardoned and ſaved; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut if we ſquander away this precious Sea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on, in following Vanity and Foolery, in ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fying our Luſts, and pleaſing our ſelves, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntill the Door of Mercy be ſhut; our Dam<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ation will be far more greater, than if we ne<g ref="char:EOLhyphen"/>ver had had ſuch an Opportunity put into <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur Hands: That's the Firſt; there is with <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch a Time as an <hi>Accepted Time,</hi> and <hi>Day of Salvation.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> I ſhall next ſhew, when this <hi>Ac<g ref="char:EOLhyphen"/>cepted Time,</hi> and <hi>Day of Salvation</hi> is; that is, at is now; <hi>Now is the accepted time,</hi> and <hi>now is the day of ſalvation.</hi> The Apoſtle doth not ſpeak it in the future Tenſe, that ſoon after will be an <hi>Accepted Time,</hi> though you conti<g ref="char:EOLhyphen"/>oue in your ſins for a while in rebelling a<g ref="char:EOLhyphen"/>gainſt God, grieving of his Spirit, and pro<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oking him to VVrath; yet if you turn to God hereafter, you ſhall be accepted; no, out he ſpeaks in the Preſent Tenſe, <hi>Behold, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow is the accepted time;</hi> now is the Oppor<g ref="char:EOLhyphen"/>tunity
+<pb n="10" facs="tcp:174593:8"/>of Grace put into your Hands, when in Heaven is to be won or loſt for ever; a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> according as you improve this preſent S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſon of Grace, ſo muſt your Everlaſting Eſta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be in another VVorld: All Mankind are a miſerable Eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce by Nature; and it is no that the Terms of Marcy are offered you, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an Opportunity of Grace put into your hand O! for the Lords ſake do not ruin your So<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for ever, by neglecting ſo precious an O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>portunity: Mark what our Saviour ſai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Mat.</hi> 5.25. <q>Agree now with thy Adve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſary quickly, whilſt thou art in the way wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> him, leſt at any time the Adverſary deliver<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thee to the Judge, and the Judge deliv<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thee to the Officer, and thou be caſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Priſon: Verily I ſay unto thee, thou ſhal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> come out thence till thou haſt paid the u<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> moſt Farthing.</q> Now God is your Adve<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſary, for we are all by Nature Enemies God, by reaſon of ſin; but, yet God of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> tender Love hath given us Terms of Reco<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ciliation; agree therefore with him quick<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> before his Juſtice hath ſeized upon thee, thou be delivered to the Officer, the Dev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and then thou ſhalt b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him be caſt into th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Priſon of Hell, and there thou muſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly in e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> tream and intolerable Torments, untill th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> haſt paid the utmoſt Farthing of Gods Ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tice, which can never be to all Eternity:
+<pb n="11" facs="tcp:174593:8"/>therefore agree and make your Peace with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur God quickly, whilſt thou art in the way <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith him; for now you are in a fair way <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ith him to be reconciled for he offers you <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>erms of Mercy; he hath ſhewed you in his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>Vord by what Means you may come to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ake an Agreement with him; he calls u<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on you by his Meſſengers; he entreats you <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſts ſtead, to be reconciled to him, 2 <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or.</hi> 20. And if God ſo earneſtly deſire our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conciliation with him, in what a ſair way <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re we then with God to be reconciled? But <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ontinue in your unconverted Eſtate, and in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>our Enmity againſt God a little longer, un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>il the ſeaſon of Grace be at an end<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and God <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ath ſhut againſt you the Door of Mercy, then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>od and you will be unreconciliable for e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er; then ail your Prayers, and Tears, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndeavours ſhall never be accepted; then <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>othing remains, but to the Priſen of Hell <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou muſt be caſt; there to remain for ever <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd ever: Therefore as <hi>Eliph<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> ſaid to <hi>Job,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o ſay I to you, <hi>Job</hi> 22.21. <hi>Acquaint now thy <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>elf with him and be at peace, thereby good ſhall <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vieme unto thee;</hi> For, behold, now is the time <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hat thou mayeſt be accepted; but more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cular, to ſhew you when this <hi>Accepted Time,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>d <hi>Day of Salvation</hi> is; it is now in this <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>fe; for there is no making our Peace with God after Death; therefore, ſaith <hi>Solomon,</hi>
+               <pb n="12" facs="tcp:174593:9"/>
+               <hi>Eccleſ.</hi> 9.10. <q>Whatſoever thy hand finde to do, do it with all thy might; for the is no work, nor device, nor knowledge, n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> wiſdom in the Grave, whither thou goe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </q>
+            </p>
+            <p>Whatſoever thy hand findeth to do, wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ther it be to repent, to cloſe ſavingly wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Chriſt, to get Grace, or to ſtrengthen t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Graces, or to ſecure thy Title toward He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ven: O! ſet about it with all thy might a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> main, for there is none of this to be do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the Grave, whether we are all haſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing; then Praying Opportunities, Serm<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Opportunities, Sacrament Opportunitie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sabbath Opportunities, will all be at an en<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Now, if yet; you are in your unconverted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtate, and yet, under the wrath of God, no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> through Gods Grace you may be converted if yet, you are Enemies to God, you may <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> reconciled; if yet, you are in your ſins, y<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> may be pardoned; if yet, you are in the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtate of Damnation, you may be brought <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an Eſtate of Salvation: But when once Dea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t your Eyes, then your condition w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> be unalterable for ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: <hi>I muſt work the wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of him that ſent me, whilſt it is to day; I for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> night cometh, when no Man can work.</hi>
+            </p>
+            <p>But yet, though the Time of this Life <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Accepted Time,</hi> and <hi>Day of Salvation,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> every time of a Mans Life may not be an a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cepted Time with him; for with ſome Me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="13" facs="tcp:174593:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Day of Salvation laſteth all their Life <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, and with ſome it doth not: Therefore <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ell may the Prophet cry out, <hi>Iſa.</hi> 55.6. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ek ye the Lord whilſt he may be found; call <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on him whilſt he is near;</hi> for there may come time even in the time of this Life, that the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>rd will not be found, though he be ſought ever ſo diligently: As <hi>Eſau,</hi> becauſe he ne<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ected the Seaſon of his Repentance, he af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rwards ſought Repentance carefully with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ears, even long before the Day of his Death, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ut he could not find it, <hi>Heb.</hi> 12.17.</p>
+            <p>'Tis true, as long as there is Life, there is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope; there is Hope ſo long as a Man is on <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>is ſide Hell; and the time of life is com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>only called the Day of Grace; not becauſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Day of Grace continues all a mans Life <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, but becauſe it is bounded within the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompaſs of a mans Life: Now, becauſe eve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y time of a mans Life may not be an <hi>accepted <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me;</hi> I ſhall therefore ſhew you ſome cer<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain Seaſons of a mans Life, which if he have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut wildom to know them, and grace to im<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rove them, he ſhall be ſure to be accepted: ſhall but little more than name them.</p>
+            <p>
+               <hi>Firſt,</hi> The time of Youth is the accepted <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me; <hi>Remember now thy Creator in the days of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y Youth,</hi> ſays <hi>Solomon,</hi> Eccleſ 12.1. O Friends! you turn to God, and in time cloſe with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt, and ſeek for Pardon, and Mercy, now
+<pb n="14" facs="tcp:174593:10"/>whilſt you are Young, you ſhall ſurely be <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cepted: For ſaith God to his People <hi>Iſra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Jer. 2.2. <hi>I have expected the kindneſs of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Youth.</hi> Some young People I have ſometime looked upon, as the happieſt People in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> World, becauſe we may be ſure their ſeaſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Grace is not gone; the preſent time the Day of Salvation; the Lord give the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace to improve it: To ſee young B<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Girls give themſelves to ſtudying <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scripture, to Praying, and crying after Chri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Grace, and Mercy: Oh! it is the rareſt ſig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in the world, whoever the door of Mercy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhut againſt, it ſhal certainly be open to the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Time of Health &amp; Streng is the <hi>accepted time:</hi> In the old Law, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> which was offered up in Sacrifice, which w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> torn, bliod, or lame, was not accepted: T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhews, that thoſe who ſpend the beſt of the days, and ſtrength, in the work of the <hi>Dev<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> &amp; then thinks to give up themſelves to Go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> when ſickneſs, lameneſs, and feeble old A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> comes, muſt never look to be accepted, G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> will not be turned off w<hi rend="sup">t</hi> the Devils leaving</p>
+            <p>
+               <hi>Thirdly,</hi> The Time of the Goſpel is the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>cepted time,</hi> Praying Opportunities, Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Opportunities, Sacrament Opportunities Sabbath Opportunities; theſe are ſeaſons Salvation, for we know not how ſoon <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> may remove our Candleftick our of his pla<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="15" facs="tcp:174593:10"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd take from us the Means of Grace; and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en the Opportunities of Grace will be alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> an end.</p>
+            <p>
+               <hi>Fourthly,</hi> and <hi>Laſtly,</hi> The Time of Gods <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirits working, and ſtriving in the hearts of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>icked Men, is the <hi>accepted time;</hi> and they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at obey the Calls of Gods Spirit, when it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rives, ſhall be ſure to be accepted, let it be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> what time ſoever, whether it be in Youth, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> old Age; though the Spirit hath its Go<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gs and Comings, yet ſome it doth not give <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ver to their old Age, or to their Dying day; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd ſome it doth: Gods Spirit is compared <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>o <hi>Noahs</hi> Dove, which <hi>Noah</hi> ſent out of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rk, and it returned to him again; and then <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain: But when he ſent the Dove out the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ird time, the Dove never returned to him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ore; ſo the Spirit of God hath its Goings <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd Comings; it comes a one time into the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eart of a ſinner, and ſecretly calls upon him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o repent, and become a new Creature: But <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his ſinner, it may be, ſtifles theſe good mo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons, quenches the Spirit, and continues ſtill <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n his ſinfull courſe of Life; then it may be, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Spirit departs, and after a while comes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gain; and finding the ſinner the ſame ſtill, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e departs, and then comes again, and again; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd at laſt the Spirit being often reſiſted, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd grieved, he is provoked finally to depart, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nd never to trouble him more; and
+<pb n="16" facs="tcp:174593:11"/>then Grace is departed, and he is immedi<g ref="char:EOLhyphen"/>ly delivered up to a hard Heart, and a rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bate Mind, that ſhall never repent: And wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> once he is brought to that paſs, then all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sermons, and all the Prayers in the VVor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will never do him any good. O! therefore have a care of quenching and grieving <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Holy Spirit of God, when it ſecretly ſtirs, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> works in your Hearts; but be carefull to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> bey its motions, leſt the Spirit being grieve withdraw it ſelf finally, and never retu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> more; and then your <hi>accepted time,</hi> and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>of ſalvation</hi> will be at an end. Now conſid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all this, if you are yet in your Youth, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrength, and enjoy the Ordinances of Go<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and the Means of Grace, and the ſecret O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> rations of Gods Spirit; and then behold, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> again, <hi>Behold, that now is the accepted time,</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>now is the day of ſalvation.</hi> Now with us, the is ſuch a time as an <hi>accepted time,</hi> and <hi>da<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſalvation;</hi> and that for theſe two Reaſons will but juſt name them.</p>
+            <p>
+               <hi>Firſt,</hi> That thereby the Saints might ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> occaſion for ever to magnifie the free Gra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God, that he hath not left them to per<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in their miſerable Eſtate, but hath offter them Terms of Mercy, and hath put an <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> portunity of Salvation into their Hands, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath given them Grace to improve it.</p>
+            <p>
+               <pb n="17" facs="tcp:174593:11"/>
+               <hi>Secondly,</hi> That thereby the wicked may be left without Excuſe; for there is never a dam<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Soul in Hell, that can plead this, that they never had a Day of Grace: O it would be a great leſſening of their Torments, if they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould plead ſo. Alas! there was never a man, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or woman, ſince the creation of the world, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut hath had a Seaſon of Grace; there was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever none yet ever lived, be their lives ſhort <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r long, but before they die, they have Mercy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffered them, and an acceptable Time to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eek it in; therefore the Wicked ſhall be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eft without Excuſe; nay, 'twill add much <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Torments, to conſider, that they once <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad a Seaſon of Grace and Salvation, and yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilfully loſt it. O let every one therefore, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth ſmall and great, behold, and couſider, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat <hi>now is the Accepted Time,</hi> and <hi>now is the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay of Salvation.</hi>
+            </p>
+            <div type="application">
+               <head>THE APPLICATION.</head>
+               <p>THE firſt Uſe that I ſhall make of this, ſhall be a Uſe of Terror, to all ſuch as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder and triſle away this Precious Seaſon Grace, and Salvation: Friends, you have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard that God's Spirit will not always ſtrive <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th Man; God is not bound to wait all a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Life long; if God continue waiting from time to another, from one Year to ano<g ref="char:EOLhyphen"/>ther,
+<pb n="18" facs="tcp:174593:12"/>from one Sabbath to another, and ye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you turn a deaf Ear to his Calls, and ſlight all his Warnings, and will go on reſolutely and preſumptuouſly in your ſins; conſider God will at laſt be weary of waiting, his Pa<g ref="char:EOLhyphen"/>tience will be at laſt tired out; and the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſt as you have ſerved God in your Day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Grace, ſo God will ſerve you, when his D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of VVrath and Vengeance comes: O read, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> tremble, in that dreadful place of Scriptur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Prov.</hi> 1.2. to the end: Mark there how lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ingly GOD expoſtulates with wicked Me<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſaying, <hi>How long ye ſimple ones, will ye love ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>plicity? and ye ſcorners delight in ſcorning? a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ye ſools hate knowledge?</hi> And then ſee his lo<g ref="char:EOLhyphen"/>ing Call and Invitation, <hi>ver.</hi> 23. <hi>Turn you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> my reproof:</hi> And alſo his gracious Promiſe, <hi>be<g ref="char:EOLhyphen"/>hold, I will pour out my Spirit into you; I <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> make known my words unto you:</hi> But yet all <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> loving Expoſtulation, Invitation, and Prom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would prevail nothing with them, they wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> run on in their evil courſes for all that; the fore ſee what GOD ſaith to them now, 24. <hi>Becauſe</hi> I <hi>have called, and ye refuſed, I h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> ſtretched out my hand, and no Man regarded; ye have ſet at naught my counſels, and would of my reproo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s: I who will laugh at your cala<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ty, and will mock when your fear cometh, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> fear cometh as a whirlwind, when deſtru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> and anguiſh cometh upon them, then ſhall
+<pb n="19" facs="tcp:174593:12"/>all upon me, but</hi> I <hi>will not anſwer, then ſhal they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eek me early, but they ſhall not find me, in that they hated knowledge, and did not chuſe the fear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f the Lord.</hi> A moſt dreadful Text this is, if <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t be rightly conſidered; in the Day of their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſitation, GOD called upon them to turn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om their evil ways, and they turned a deaf <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ar, and would not regard; but afterwards, when their Day of <hi>Iſrael</hi> was paſt, and the Day <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f their Extremity was come, then they cal<g ref="char:EOLhyphen"/>led upon God for Mercy, and God would not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>egard them; it is a common Proverb amongſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, <hi>He that will not whilſt he may, when he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould he ſhall have may;</hi> This was the very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe of <hi>Eſau,</hi> he was a Hunting, and following is fleſhly Deltghts, when God was a calling <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>im to Repentance; and then afterwards, when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e would have repented, he was rejected; for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e found no place for Repentance, though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſought it carefully with Tears, <hi>Heb.</hi> 12.27. low God may call long upon wicked Men to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn, and be ſaved, both by his Word, and by is Spirit, but they will not regard; but when <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is their Day of Salvation is ended, and they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ome toly upon their Death-beds, O! how they will then cry out, <hi>Lord pardon me, Lord <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ve me; Mercy Lord, Mercy Lord, ſome Merey <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Chriſt's ſake:</hi> But God may juſtly anſwer <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em, <hi>No Sinner, no Mercy to be had; I once fered thee Mercy, but thou abuſeſt it: and ſee<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:174593:13"/>thou wouldſt not accept of Mercy whilſt it wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> offered thee, therefore now the Door of Mercy <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhut againſt thee for ever.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> My ſecond Uſe, ſhall be for Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter of Encouragement, to ſuch who are will<g ref="char:EOLhyphen"/>ing to come in, and accept of the Terms o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mercy, but yet keep off, thro' many Doub<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Fears.</p>
+               <p>
+                  <hi>O</hi> ſays one, I <hi>am afraid my Day of Salvation is paſt already; and if ſo, all my endeavours w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> be in vain, do what I can, I ſhal never be accepted.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> To anſwer this, I will give you th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> one Mark, whereby you may know wheth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your Day of Salvation be paſt or no: Yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſay, you are afraid that your Day of Salvation is paſt: If ſo, that is a good Sign, that it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not paſt; for thoſe with whom their Day <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Grace is paſt, they grow ſenſleſs of any ſu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Matter. Again: Do not you find ſometime godly Motions ſtirring in you by the Spirit Do not you find in you ſometimes a ſorrow for ſin, after it is committed; and a deſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to leave ſin? Doth not your Heart ſome times melt, when you hear y<hi rend="sup">e</hi> Word preache<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Have you not ſome Deſire to become a N<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Creature? if ſo, then your day of Salvation is not yet paſt; for thoſe with whom the D<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of Grace is paſt they are given over to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſonfleſs, hard, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>durate Heart, that is n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ther moved with Mercies nor terriſied wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:174593:13"/>Judgements; and being given over to them<g ref="char:EOLhyphen"/>ſelves, they run into all kind of wickedneſs, w<hi rend="sup">t</hi> reedineſs; and as it ſeems, this is not thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſe, as yet; ſo now, up, and cloſe with the terms of Mercy, whilſt thy Day of Salvation <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> lengthned out.</p>
+               <p>
+                  <hi>O,</hi> but ſaith another, <hi>it may be I am none of God's Elect; and if ſo, then all my Endeavours <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ill be to no purpoſe.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> Whether a Man be Elected or not, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat is not in his Power to know, and therefore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ought not to meddle with it; but you muſt underſtand, that God deerees aright, for thoſe whom God hath Elected, he hath abſolutely Decreed, that they ſhall be Juſtified, Sancti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, and Saved; but thoſe whom God hath Reprobated, he hath not abſolutely Decreed, that they ſhall be Damned, but hath left them to their own Choice, as <hi>Adam</hi> and <hi>Eve</hi> was; and therefore their Damnation is wilfull, of themſelves; but whether you are Elected or not, if I may ſo ſpeak, if you repent, and be converted, you ſhall be ſaved; if not, you ſhall be damned: As many as do periſh, do not periſh becauſe they were not Elected, but becauſe they would not uſe the Means in or<g ref="char:EOLhyphen"/>der to their Salvation.</p>
+               <p>
+                  <hi>O but,</hi> you will ſay, <hi>it may be, God will not give me Grace to Repent, and without his Grace</hi> I <hi>can do nothing.</hi>
+               </p>
+               <p>
+                  <pb n="22" facs="tcp:174593:14"/>
+                  <hi>Anſw.</hi> Know for your Encouragement, both you and every one elſe enjoys <hi>a Day Salvation;</hi> and this Day of Salvation is Time of Aſſiſtance, as well as a Time of A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ceptance: Mark the Promiſe of Chriſt, <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 7.7. <hi>Ask, and ye ſhall have; ſeek, and ye ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> find; knock, and it ſhall be opened unto you:</hi> F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> every one that asketh, receiveth; and he th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſeeketh findeth; and to him that knocket it ſhall be opened.</p>
+               <p>Mark, Chriſt ſpeaks there nothing conce ning Election, but every one, whoever he b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that asketh, ſeeketh, and knocketh for Grace Pardon, and Mercy, and that in Seaſon, whill it may be had, ſhall certainly be heard an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> accepted: But then you muſt be ſure to ſee in Seaſon, for ſeeking out of Seaſon, never y<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> found Succeſs. Now if <hi>Eſau</hi> had but ſought Repentance in earneſt, when God called hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to repent, then GOD would have ſtrengt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ned and aſſiſted him, and alſo accepted hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but he ſought for Repentance when the Sea<g ref="char:EOLhyphen"/>ſon of Repentance was gone, and that ruine him for ever. Now mark this, whatever th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Decrees of Heaven be concerning you, yet you are but willing to leave your ſins, and d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> heartily deſire Grace and Mercy, and earnest<g ref="char:EOLhyphen"/>ly ſeek it by Prayer and Supplication, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:174593:14"/>that in the Seaſon of Grace, whilſt it is offer<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you; theu, though you ean do nothing of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur ſelves, yet you ſhal have ſtrength and aſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance enough, for God will help you, Chriſt <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll help you, and the Spirit will help you; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u ſhal have help from Heaven, and through <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Spirit of Chriſts Strengthing, you ſhal be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abled to go through with this great Work, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d then you ſhall not only be aſſiſted, but al<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> accepted and rewarded: But then you muſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſure to ſeek out in Seaſon, in your Day of Salvation; for if you ſeek out of Seaſon, all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our ſeeking and ſtriving will be in vain.</p>
+               <p>
+                  <hi>Lastly,</hi> To conclude all with a Word or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wo of Exhortation: Be exhorted, as you de<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire the Salvation of your Souls, to conſider <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd improve this precious Seaſon of Grace and Salvation, in working out your Salvation, be<g ref="char:EOLhyphen"/>fore it be too late: O it is moſt dreadful to conſider, that GOD hath allotted us but one ſmal Portion of Time, to do all that ever muſt be done for Eternity, and yet it ſhould be ſquandered away in Vanity and Foolery: But Friends, whatever you ſee others do, do you in earneſt lay hold on this your Day of Salvation, before it is gone: <hi>Seek ye the Lord now, whilſt he may be found, and call upon him whilſt he is near.</hi> And whilſt others ſpend their precious Time in Feaſting, Ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting, and in the Pleaſures of the Fleſh, do you
+<pb n="24" facs="tcp:174593:15"/>ſpend your Time in Faſting, Praying, Rep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ting, and Suing out the Pardon of your Si<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> and making your Peace with GOD. And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> you thus do, then at laſt, when Time ſh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ceaſe, and be no longer; you ſhall hear th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bleſſed Welcome proceed from the Mouth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt, <hi>Well done, thou good and faithfull Se<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>vant, enter into the Joy of thy Lord.</hi> Whi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Lord of his infinite Mercy grant to us a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:174593:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
